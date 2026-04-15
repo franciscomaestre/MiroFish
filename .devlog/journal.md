@@ -1,1 +1,2 @@
 - 2026-03-15 12:09 | wip: experimento del dia (#3)
+- 2026-04-14 21:42 | tweak: ajuste menor (#33)
