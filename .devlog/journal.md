@@ -1,3 +1,4 @@
 - 2026-03-15 12:09 | wip: experimento del dia (#3)
 - 2026-04-14 21:42 | tweak: ajuste menor (#33)
 - 2026-04-24 17:13 | tweak: ajuste menor (#50)
+- 2026-04-25 10:24 | refactor: reorganizar apuntes (#51)
