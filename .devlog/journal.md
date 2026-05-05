@@ -3,3 +3,4 @@
 - 2026-04-24 17:13 | tweak: ajuste menor (#50)
 - 2026-04-25 10:24 | refactor: reorganizar apuntes (#51)
 - 2026-05-03 19:19 | chore: limpieza (#63)
+- 2026-05-05 16:57 | refactor: reorganizar apuntes (#64)
