@@ -5,3 +5,4 @@
 - 2026-05-03 19:19 | chore: limpieza (#63)
 - 2026-05-05 16:57 | refactor: reorganizar apuntes (#64)
 - 2026-05-13 14:33 | notes: ideas pendientes (#76)
+- 2026-05-14 14:22 | fix: typo en notas (#78)
